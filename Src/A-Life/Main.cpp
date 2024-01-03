@@ -8,6 +8,7 @@
 
 int main(int, char**)
 {
+	//
 	glm::ivec2 screen_size{ 800, 600 };
 	glm::ivec2 env_size{ 40, 30 };
 
